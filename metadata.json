@@ -1,0 +1,6 @@
+{
+  "name": "Bursa Komoditas Absurd",
+  "description": "Klien pasar komoditas fiktif retro 1980-an yang memperdagangkan komoditas tak berwujud seperti gema gua dan mimpi siang dengan order book, leaderboard, dan grafik real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
